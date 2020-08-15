@@ -51,6 +51,7 @@ class Util(object):
     Returns:
       A string that contains a new name with respect to the current time.
     """
+    # print(filename)
     # Assertions
     if (name == None):
       raise ValueError("Name parameter cannot be empty.")

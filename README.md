@@ -1,3 +1,5 @@
+Update 8/15/2020: Support use filename instead of database name in saved files. E.g. image and annotation names are <file_name>_<YYYY>_<MM>_<DD>.
+
 <h1> Impy (Images in python) </h1>
 <p>Impy is a library used for deep learning projects that use image datasets.</p>
 <ul>
